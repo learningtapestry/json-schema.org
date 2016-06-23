@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org VideoGallery",
   "@type": "VideoGallery",
+  "@context": "http://schema.org/",
+  "description": "Schema.org VideoGallery",
   "type": "object",
   "definitions": {
     "Thing": {

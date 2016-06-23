@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org ApartmentComplex",
   "@type": "ApartmentComplex",
+  "@context": "http://schema.org/",
+  "description": "Schema.org ApartmentComplex",
   "type": "object",
   "definitions": {
     "Thing": {

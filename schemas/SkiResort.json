@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org SkiResort",
   "@type": "SkiResort",
+  "@context": "http://schema.org/",
+  "description": "Schema.org SkiResort",
   "type": "object",
   "definitions": {
     "Thing": {

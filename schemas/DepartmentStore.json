@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org DepartmentStore",
   "@type": "DepartmentStore",
+  "@context": "http://schema.org/",
+  "description": "Schema.org DepartmentStore",
   "type": "object",
   "definitions": {
     "Thing": {

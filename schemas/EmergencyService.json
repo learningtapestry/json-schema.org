@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org EmergencyService",
   "@type": "EmergencyService",
+  "@context": "http://schema.org/",
+  "description": "Schema.org EmergencyService",
   "type": "object",
   "definitions": {
     "Thing": {

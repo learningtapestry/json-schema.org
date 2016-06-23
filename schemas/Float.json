@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Float",
   "@type": "Float",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Float",
   "type": "object",
   "definitions": {
   },

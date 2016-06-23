@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org AggregateRating",
   "@type": "AggregateRating",
+  "@context": "http://schema.org/",
+  "description": "Schema.org AggregateRating",
   "type": "object",
   "definitions": {
     "Thing": {

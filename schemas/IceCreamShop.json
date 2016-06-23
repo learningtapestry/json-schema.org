@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org IceCreamShop",
   "@type": "IceCreamShop",
+  "@context": "http://schema.org/",
+  "description": "Schema.org IceCreamShop",
   "type": "object",
   "definitions": {
     "Thing": {

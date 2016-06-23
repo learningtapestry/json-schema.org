@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org ContactPoint",
   "@type": "ContactPoint",
+  "@context": "http://schema.org/",
+  "description": "Schema.org ContactPoint",
   "type": "object",
   "definitions": {
     "Thing": {

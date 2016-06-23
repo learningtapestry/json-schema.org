@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "@type": "Duration",
+  "@type": null,
   "@context": "http://schema.org/",
-  "description": "Schema.org Duration",
+  "description": "Schema.org ",
   "type": "object",
   "definitions": {
   },

@@ -1,6 +1,7 @@
 json-schema definitions for schema.org entities
 
-This project is built on top of https://github.com/indexzero/node-schema-org
+This project is built on top of https://github.com/indexzero/node-schema-org.
+
 We use their definitions (copied on the `sources` folder) and transform them into
 valid json-schema (http://json-schema.org/).
 

@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Airport",
   "@type": "Airport",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Airport",
   "type": "object",
   "definitions": {
     "Thing": {

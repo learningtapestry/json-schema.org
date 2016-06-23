@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org ParkingFacility",
   "@type": "ParkingFacility",
+  "@context": "http://schema.org/",
+  "description": "Schema.org ParkingFacility",
   "type": "object",
   "definitions": {
     "Thing": {

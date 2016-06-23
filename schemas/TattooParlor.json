@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org TattooParlor",
   "@type": "TattooParlor",
+  "@context": "http://schema.org/",
+  "description": "Schema.org TattooParlor",
   "type": "object",
   "definitions": {
     "Thing": {

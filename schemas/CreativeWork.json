@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org CreativeWork",
   "@type": "CreativeWork",
+  "@context": "http://schema.org/",
+  "description": "Schema.org CreativeWork",
   "type": "object",
   "definitions": {
     "Thing": {

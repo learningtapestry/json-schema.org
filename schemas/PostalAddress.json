@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org PostalAddress",
   "@type": "PostalAddress",
+  "@context": "http://schema.org/",
+  "description": "Schema.org PostalAddress",
   "type": "object",
   "definitions": {
     "Thing": {

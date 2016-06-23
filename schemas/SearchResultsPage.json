@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org SearchResultsPage",
   "@type": "SearchResultsPage",
+  "@context": "http://schema.org/",
+  "description": "Schema.org SearchResultsPage",
   "type": "object",
   "definitions": {
     "Thing": {

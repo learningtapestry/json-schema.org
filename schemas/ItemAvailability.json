@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org ItemAvailability",
   "@type": "ItemAvailability",
+  "@context": "http://schema.org/",
+  "description": "Schema.org ItemAvailability",
   "type": "object",
   "definitions": {
     "Thing": {

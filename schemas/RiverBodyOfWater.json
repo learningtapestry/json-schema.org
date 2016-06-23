@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org RiverBodyOfWater",
   "@type": "RiverBodyOfWater",
+  "@context": "http://schema.org/",
+  "description": "Schema.org RiverBodyOfWater",
   "type": "object",
   "definitions": {
     "Thing": {

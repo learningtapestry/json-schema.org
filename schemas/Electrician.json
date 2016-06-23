@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Electrician",
   "@type": "Electrician",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Electrician",
   "type": "object",
   "definitions": {
     "Thing": {

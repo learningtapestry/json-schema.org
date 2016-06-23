@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org TVSeason",
   "@type": "TVSeason",
+  "@context": "http://schema.org/",
+  "description": "Schema.org TVSeason",
   "type": "object",
   "definitions": {
     "Thing": {

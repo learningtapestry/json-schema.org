@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Plumber",
   "@type": "Plumber",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Plumber",
   "type": "object",
   "definitions": {
     "Thing": {

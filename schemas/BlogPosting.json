@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org BlogPosting",
   "@type": "BlogPosting",
+  "@context": "http://schema.org/",
+  "description": "Schema.org BlogPosting",
   "type": "object",
   "definitions": {
     "Thing": {

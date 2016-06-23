@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Courthouse",
   "@type": "Courthouse",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Courthouse",
   "type": "object",
   "definitions": {
     "Thing": {

@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org WPSideBar",
   "@type": "WPSideBar",
+  "@context": "http://schema.org/",
+  "description": "Schema.org WPSideBar",
   "type": "object",
   "definitions": {
     "Thing": {

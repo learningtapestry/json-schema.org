@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org CheckoutPage",
   "@type": "CheckoutPage",
+  "@context": "http://schema.org/",
+  "description": "Schema.org CheckoutPage",
   "type": "object",
   "definitions": {
     "Thing": {

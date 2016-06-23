@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Painting",
   "@type": "Painting",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Painting",
   "type": "object",
   "definitions": {
     "Thing": {

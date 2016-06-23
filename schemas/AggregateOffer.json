@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org AggregateOffer",
   "@type": "AggregateOffer",
+  "@context": "http://schema.org/",
+  "description": "Schema.org AggregateOffer",
   "type": "object",
   "definitions": {
     "Thing": {

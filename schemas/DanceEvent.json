@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org DanceEvent",
   "@type": "DanceEvent",
+  "@context": "http://schema.org/",
+  "description": "Schema.org DanceEvent",
   "type": "object",
   "definitions": {
     "Thing": {

@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org ComedyClub",
   "@type": "ComedyClub",
+  "@context": "http://schema.org/",
+  "description": "Schema.org ComedyClub",
   "type": "object",
   "definitions": {
     "Thing": {

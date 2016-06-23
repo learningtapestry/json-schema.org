@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Event",
   "@type": "Event",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Event",
   "type": "object",
   "definitions": {
     "Thing": {

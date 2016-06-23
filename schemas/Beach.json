@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Beach",
   "@type": "Beach",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Beach",
   "type": "object",
   "definitions": {
     "Thing": {

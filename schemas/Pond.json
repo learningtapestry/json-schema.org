@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Pond",
   "@type": "Pond",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Pond",
   "type": "object",
   "definitions": {
     "Thing": {

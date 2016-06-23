@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org BankOrCreditUnion",
   "@type": "BankOrCreditUnion",
+  "@context": "http://schema.org/",
+  "description": "Schema.org BankOrCreditUnion",
   "type": "object",
   "definitions": {
     "Thing": {

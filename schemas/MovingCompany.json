@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org MovingCompany",
   "@type": "MovingCompany",
+  "@context": "http://schema.org/",
+  "description": "Schema.org MovingCompany",
   "type": "object",
   "definitions": {
     "Thing": {

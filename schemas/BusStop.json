@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org BusStop",
   "@type": "BusStop",
+  "@context": "http://schema.org/",
+  "description": "Schema.org BusStop",
   "type": "object",
   "definitions": {
     "Thing": {

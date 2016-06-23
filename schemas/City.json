@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org City",
   "@type": "City",
+  "@context": "http://schema.org/",
+  "description": "Schema.org City",
   "type": "object",
   "definitions": {
     "Thing": {

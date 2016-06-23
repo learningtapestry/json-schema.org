@@ -11,8 +11,9 @@ class Parser
   def schema
     {
       "$schema": "http://json-schema.org/draft-04/schema#",
-      "description": "Schema.org #{type}",
       "@type": type,
+      "@context": "http://schema.org/",
+      "description": "Schema.org #{type}",
       "type": "object",
       "definitions": parsed_definitions,
       "allOf": definitions.keys.map { |name| "#definitions/#{name}" }

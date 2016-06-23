@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Pharmacy",
   "@type": "Pharmacy",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Pharmacy",
   "type": "object",
   "definitions": {
     "Thing": {

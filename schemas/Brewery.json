@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Brewery",
   "@type": "Brewery",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Brewery",
   "type": "object",
   "definitions": {
     "Thing": {

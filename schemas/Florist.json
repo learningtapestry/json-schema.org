@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Florist",
   "@type": "Florist",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Florist",
   "type": "object",
   "definitions": {
     "Thing": {

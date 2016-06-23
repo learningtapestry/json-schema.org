@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org ScholarlyArticle",
   "@type": "ScholarlyArticle",
+  "@context": "http://schema.org/",
+  "description": "Schema.org ScholarlyArticle",
   "type": "object",
   "definitions": {
     "Thing": {

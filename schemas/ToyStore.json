@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org ToyStore",
   "@type": "ToyStore",
+  "@context": "http://schema.org/",
+  "description": "Schema.org ToyStore",
   "type": "object",
   "definitions": {
     "Thing": {

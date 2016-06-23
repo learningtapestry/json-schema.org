@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org GovernmentBuilding",
   "@type": "GovernmentBuilding",
+  "@context": "http://schema.org/",
+  "description": "Schema.org GovernmentBuilding",
   "type": "object",
   "definitions": {
     "Thing": {

@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org AutoBodyShop",
   "@type": "AutoBodyShop",
+  "@context": "http://schema.org/",
+  "description": "Schema.org AutoBodyShop",
   "type": "object",
   "definitions": {
     "Thing": {

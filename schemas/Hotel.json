@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Hotel",
   "@type": "Hotel",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Hotel",
   "type": "object",
   "definitions": {
     "Thing": {

@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org MovieRentalStore",
   "@type": "MovieRentalStore",
+  "@context": "http://schema.org/",
+  "description": "Schema.org MovieRentalStore",
   "type": "object",
   "definitions": {
     "Thing": {

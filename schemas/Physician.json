@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Physician",
   "@type": "Physician",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Physician",
   "type": "object",
   "definitions": {
     "Thing": {

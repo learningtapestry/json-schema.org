@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org TrainStation",
   "@type": "TrainStation",
+  "@context": "http://schema.org/",
+  "description": "Schema.org TrainStation",
   "type": "object",
   "definitions": {
     "Thing": {

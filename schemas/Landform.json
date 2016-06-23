@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Landform",
   "@type": "Landform",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Landform",
   "type": "object",
   "definitions": {
     "Thing": {

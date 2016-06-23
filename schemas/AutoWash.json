@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org AutoWash",
   "@type": "AutoWash",
+  "@context": "http://schema.org/",
+  "description": "Schema.org AutoWash",
   "type": "object",
   "definitions": {
     "Thing": {

@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org VisualArtsEvent",
   "@type": "VisualArtsEvent",
+  "@context": "http://schema.org/",
+  "description": "Schema.org VisualArtsEvent",
   "type": "object",
   "definitions": {
     "Thing": {

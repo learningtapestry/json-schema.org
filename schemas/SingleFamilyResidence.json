@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org SingleFamilyResidence",
   "@type": "SingleFamilyResidence",
+  "@context": "http://schema.org/",
+  "description": "Schema.org SingleFamilyResidence",
   "type": "object",
   "definitions": {
     "Thing": {

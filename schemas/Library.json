@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Library",
   "@type": "Library",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Library",
   "type": "object",
   "definitions": {
     "Thing": {

@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Bakery",
   "@type": "Bakery",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Bakery",
   "type": "object",
   "definitions": {
     "Thing": {

@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org EducationalOrganization",
   "@type": "EducationalOrganization",
+  "@context": "http://schema.org/",
+  "description": "Schema.org EducationalOrganization",
   "type": "object",
   "definitions": {
     "Thing": {

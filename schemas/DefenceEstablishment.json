@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org DefenceEstablishment",
   "@type": "DefenceEstablishment",
+  "@context": "http://schema.org/",
+  "description": "Schema.org DefenceEstablishment",
   "type": "object",
   "definitions": {
     "Thing": {

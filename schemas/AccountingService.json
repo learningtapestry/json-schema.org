@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org AccountingService",
   "@type": "AccountingService",
+  "@context": "http://schema.org/",
+  "description": "Schema.org AccountingService",
   "type": "object",
   "definitions": {
     "Thing": {

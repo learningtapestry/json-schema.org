@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org RadioStation",
   "@type": "RadioStation",
+  "@context": "http://schema.org/",
+  "description": "Schema.org RadioStation",
   "type": "object",
   "definitions": {
     "Thing": {

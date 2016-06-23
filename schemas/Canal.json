@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org Canal",
   "@type": "Canal",
+  "@context": "http://schema.org/",
+  "description": "Schema.org Canal",
   "type": "object",
   "definitions": {
     "Thing": {

@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org BuddhistTemple",
   "@type": "BuddhistTemple",
+  "@context": "http://schema.org/",
+  "description": "Schema.org BuddhistTemple",
   "type": "object",
   "definitions": {
     "Thing": {

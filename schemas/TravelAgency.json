@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org TravelAgency",
   "@type": "TravelAgency",
+  "@context": "http://schema.org/",
+  "description": "Schema.org TravelAgency",
   "type": "object",
   "definitions": {
     "Thing": {

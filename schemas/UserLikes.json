@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org UserLikes",
   "@type": "UserLikes",
+  "@context": "http://schema.org/",
+  "description": "Schema.org UserLikes",
   "type": "object",
   "definitions": {
     "Thing": {

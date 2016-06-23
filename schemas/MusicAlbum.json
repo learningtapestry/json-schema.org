@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org MusicAlbum",
   "@type": "MusicAlbum",
+  "@context": "http://schema.org/",
+  "description": "Schema.org MusicAlbum",
   "type": "object",
   "definitions": {
     "Thing": {

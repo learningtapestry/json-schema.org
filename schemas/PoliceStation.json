@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org PoliceStation",
   "@type": "PoliceStation",
+  "@context": "http://schema.org/",
+  "description": "Schema.org PoliceStation",
   "type": "object",
   "definitions": {
     "Thing": {

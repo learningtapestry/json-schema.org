@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org UserComments",
   "@type": "UserComments",
+  "@context": "http://schema.org/",
+  "description": "Schema.org UserComments",
   "type": "object",
   "definitions": {
     "Thing": {

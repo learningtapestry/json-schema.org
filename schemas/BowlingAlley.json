@@ -1,7 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "Schema.org BowlingAlley",
   "@type": "BowlingAlley",
+  "@context": "http://schema.org/",
+  "description": "Schema.org BowlingAlley",
   "type": "object",
   "definitions": {
     "Thing": {
