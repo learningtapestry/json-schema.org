@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Schema.org URL",
+  "@type": "URL",
+  "type": "object",
+  "definitions": {
+  },
+  "allOf": [
+
+  ]
+}
