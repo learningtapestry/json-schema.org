@@ -275,7 +275,7 @@
         },
         "seasonNumber": {
           "description": "The season number.",
-          "$ref": "Integer.json"
+          "type": "number"
         },
         "startDate": {
           "description": "The start date and time of the event (in ISO 8601 date format).",

@@ -270,7 +270,7 @@
         },
         "numberOfPages": {
           "description": "The number of pages in the book.",
-          "$ref": "Integer.json"
+          "type": "number"
         }
       }
     }

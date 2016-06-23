@@ -217,7 +217,7 @@
         },
         "offerCount": {
           "description": "The number of offers for the product.",
-          "$ref": "Integer.json"
+          "type": "number"
         }
       }
     }

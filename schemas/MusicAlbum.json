@@ -254,7 +254,7 @@
       "properties": {
         "numTracks": {
           "description": "The number of tracks in this album or playlist.",
-          "$ref": "Integer.json"
+          "type": "number"
         },
         "track": {
           "description": "A music recording (track)—usually a single song.",
