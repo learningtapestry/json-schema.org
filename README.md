@@ -1,5 +1,8 @@
 json-schema definitions for schema.org entities
 
+You can browse the schemas on: https://learningtapestry.github.io/json-schema.org/
+
+
 This project is built on top of https://github.com/indexzero/node-schema-org.
 
 We use their definitions (copied on the `sources` folder) and transform them into
